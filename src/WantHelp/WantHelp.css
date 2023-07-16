@@ -1,0 +1,46 @@
+.whole{
+    align-items: center;
+    justify-content: center;
+}
+
+div h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem;
+}
+.card {
+    width: 300px;
+    border: 3px solid #cccccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+  .card button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  div h3{
+    text-align: center;
+  }
+
+  div p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
